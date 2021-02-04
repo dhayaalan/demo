@@ -1,3 +1,3 @@
 # Demo Project 1
 
-Initial Commit
+Initial Commits
