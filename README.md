@@ -1,6 +1,6 @@
 # Demo Project 1
 
-Initial Commits
+* Initial Commits
 
 Second commits
 
