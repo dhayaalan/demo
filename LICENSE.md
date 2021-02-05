@@ -1,3 +1,3 @@
 ## LICENSE
 
-Git License
+Git License is Apachi 2.0
